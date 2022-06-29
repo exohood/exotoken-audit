@@ -2,4 +2,4 @@
 
 # Exohood Contract Audit
 
-* 11/02/2021 Smart Contract Audit by Intercer Iberia SL
+* 11 Nov 2021 Smart Contract Audit by Intercer Iberia SL
