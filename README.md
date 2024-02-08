@@ -8,7 +8,7 @@
 
 # EXO Token (ERC20)
 * Contract: 0xbd8005612124dc30601e22d8b5d188a89767c640
-* Audit Pending: https://skynet.certik.com/projects/exohood
+* 30 Jan 2024 Smart Contract Audit by Cyberscope
 
 # About Exohood´s Transparency
 
